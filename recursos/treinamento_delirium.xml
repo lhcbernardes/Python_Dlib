@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../delirium/treinamento1.jpg'>
+    <box top='320' left='187' width='90' height='80'/>
+  </image>
+  <image file='../delirium/treinamento2.jpg'>
+    <box top='116' left='84' width='69' height='63'/>
+  </image>
+  <image file='../delirium/treinamento3.jpg'>
+    <box top='217' left='87' width='47' height='41'/>
+    <box top='533' left='51' width='118' height='116'/>
+  </image>
+  <image file='../delirium/treinamento4.jpg'>
+    <box top='559' left='511' width='130' height='128'/>
+    <box top='368' left='249' width='45' height='43'/>
+    <box top='367' left='363' width='40' height='49'/>
+    <box top='476' left='178' width='43' height='43'/>
+    <box top='479' left='324' width='45' height='40'/>
+  </image>
+</images>
+</dataset>

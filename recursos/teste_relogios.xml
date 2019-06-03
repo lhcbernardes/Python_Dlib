@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../relogios_teste/teste1.jpg'>
+    <box top='97' left='113' width='67' height='63'/>
+    <box top='284' left='74' width='49' height='47'/>
+    <box top='515' left='63' width='42' height='38'/>
+    <box top='359' left='202' width='128' height='165'/>
+    <box top='112' left='238' width='30' height='22'/>
+    <box top='145' left='316' width='56' height='31'/>
+    <box top='98' left='405' width='32' height='41'/>
+    <box top='162' left='461' width='78' height='90'/>
+    <box top='209' left='391' width='30' height='26'/>
+    <box top='236' left='327' width='32' height='42'/>
+    <box top='320' left='350' width='49' height='63'/>
+    <box top='364' left='479' width='48' height='57'/>
+    <box top='512' left='441' width='21' height='34'/>
+  </image>
+  <image file='../relogios_teste/teste2.jpg'>
+    <box top='23' left='61' width='76' height='76'/>
+    <box top='16' left='223' width='86' height='87'/>
+    <box top='178' left='8' width='81' height='88'/>
+    <box top='197' left='288' width='89' height='91'/>
+    <box top='188' left='468' width='103' height='105'/>
+    <box top='26' left='459' width='124' height='116'/>
+    <box top='28' left='666' width='93' height='92'/>
+    <box top='183' left='656' width='111' height='104'/>
+    <box top='41' left='871' width='86' height='81'/>
+    <box top='177' left='851' width='122' height='84'/>
+  </image>
+  <image file='../relogios_teste/teste3.jpg'>
+    <box top='34' left='54' width='52' height='56'/>
+    <box top='40' left='134' width='57' height='49'/>
+    <box top='38' left='212' width='53' height='50'/>
+    <box top='38' left='292' width='50' height='48'/>
+    <box top='38' left='370' width='47' height='56'/>
+    <box top='37' left='446' width='54' height='52'/>
+    <box top='35' left='526' width='54' height='57'/>
+    <box top='139' left='54' width='52' height='51'/>
+    <box top='137' left='132' width='53' height='54'/>
+    <box top='138' left='209' width='59' height='51'/>
+    <box top='138' left='291' width='52' height='52'/>
+    <box top='139' left='370' width='63' height='53'/>
+    <box top='136' left='446' width='60' height='54'/>
+    <box top='135' left='523' width='60' height='61'/>
+  </image>
+</images>
+</dataset>
